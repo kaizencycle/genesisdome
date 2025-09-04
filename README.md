@@ -1,2 +1,0 @@
-# genesisdome
-open world MMO
